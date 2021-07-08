@@ -33,7 +33,8 @@
 
 <p align="center">
 <a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.judith-portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/akhilgkrishnan) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
+ <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"></a>
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
 
 </p>
 
