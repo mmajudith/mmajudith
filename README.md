@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.judith-portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/AVS1508/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205">[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]</a>
 <a href="mailto:avsingh@umass.edu"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
 
