@@ -29,10 +29,10 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="center">
-<a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.judith-portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
- <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"> Linkedin</a>
- <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"> Twitter</a>
+<p align="left">
+<a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://fontawesome.com/v4.7/icon/certificate"></a>
+ <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"><strong>Linkedin</strong></a>
+ <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"><strong>Twitter</strong></a>
 </p>
 
 
