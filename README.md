@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Judith.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -33,9 +31,8 @@
 
 <p align="center">
 <a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-www.judith-portfolio.com-blue?style=flat-square&logo=google-chrome"></a>
- <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"></a>
- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/akhilgkrishnan) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/MrAkhilG) [![Facebook](http://i.imgur.com/fep1WsG.png) Facebook](https://facebook.com/akhilgkrishnan9800)
-
+ <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"> Linkedin</a>
+ <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"> Twitter</a>
 </p>
 
 
