@@ -22,17 +22,14 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<br/>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
-<a href="https://judith-portfolio.herokuapp.com/"><img alt="Portfolio" src="https://fontawesome.com/v4.7/icon/certificate"></a>
- <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"><strong>Linkedin</strong></a>
- <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"><strong>Twitter</strong></a>
+ <a href="https://judith-portfolio.herokuapp.com/">🌐 <strong> Portfolio</strong></a>
+ <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"> <strong> Linkedin</strong></a>
+ <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"> <strong> Twitter</strong></a>
 </p>
 
 
