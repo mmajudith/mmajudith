@@ -2,17 +2,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+2 years of experience in developing scalable and highly available websites and web applications. I have great passion for exploring new technologies and developing software solutions. I am available for project collaboration and internship opportunities.
 
-<!-- An ML & Open Source enthusiast.
-A Computer Engineering Undergraduate Student.
-Currently working on some of my cool side projects based on Web Development and Machine Learning.
-I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
- -->
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
