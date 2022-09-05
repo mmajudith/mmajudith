@@ -27,7 +27,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="left">
- <a href="https://judith-portfolio.herokuapp.com/">🌐 <strong> Portfolio</strong></a>&nbsp;
+ <a href="https://judith-portfolio.vercel.app"/>🌐 <strong> Portfolio</strong></a>&nbsp;
  <a href="https://www.linkedin.com/in/judith-onyekwelu-b96655205"><img alt="Linkedin" src="https://i.stack.imgur.com/gVE0j.png"> <strong> Linkedin</strong></a>&nbsp;
  <a href="https://twitter.com/mmajudith1"><img alt="Twitter" src="http://i.imgur.com/wWzX9uB.png"> <strong> Twitter</strong></a>
 </p>
