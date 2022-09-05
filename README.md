@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-2 years of experience in developing scalable and highly available websites and web applications. I have great passion for exploring new technologies and developing software solutions. I am available for project collaboration and internship opportunities.
+2 years plus experience in developing scalable and highly available websites and web applications. I have great passion for exploring new technologies and developing software solutions. I am available for project collaboration and internship opportunities.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
