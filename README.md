@@ -1,8 +1,4 @@
-<h2> Hey there! I'm Judith.</h2>
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-2 years experience in developing scalable and highly available websites and web applications. I have great passion for exploring new technologies and developing software solutions. I am available for project collaboration and internship opportunities.
+Judith is a self-taught Frontend Developer with 2 years of experience in developing scalable and highly available websites. I have great passion for exploring new technologies and developing software solutions. I am available for project collaboration and internship opportunities.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -15,8 +11,10 @@
   ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Web3.js](https://img.shields.io/badge/-Web3-333333?style=flat&logo=web3)
   ![Ether.js](https://img.shields.io/badge/-Ethereum-333333?style=flat&logo=ethererum)
+  ...
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
